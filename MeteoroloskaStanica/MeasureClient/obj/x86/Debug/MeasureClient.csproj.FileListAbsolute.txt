@@ -1,0 +1,19 @@
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\MeasureClient\bin\Debug\MeasureClient.exe.config
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\MeasureClient\bin\Debug\MeasureClient.exe
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\MeasureClient\bin\Debug\MeasureClient.pdb
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.exe
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.pdb
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\MeasureClient\bin\Debug\MeasureClient.exe.config
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\MeasureClient\bin\Debug\MeasureClient.exe
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\MeasureClient\bin\Debug\MeasureClient.pdb
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.exe
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.pdb
+C:\Users\MiloS\Desktop\MeasureService\MeasureClient\bin\Debug\MeasureClient.exe.config
+C:\Users\MiloS\Desktop\MeasureService\MeasureClient\bin\Debug\MeasureClient.exe
+C:\Users\MiloS\Desktop\MeasureService\MeasureClient\bin\Debug\MeasureClient.pdb
+C:\Users\MiloS\Desktop\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.exe
+C:\Users\MiloS\Desktop\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.pdb
+C:\Users\MiloS\Desktop\MeasureService\MeasureClient\obj\x86\Debug\MeasureClient.csprojResolveAssemblyReference.cache
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\MeasureClient\bin\Debug\MeasureClient.exe.config
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\MeasureClient\obj\x86\Debug\MeasureClient.exe
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\MeasureClient\obj\x86\Debug\MeasureClient.pdb

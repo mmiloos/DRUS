@@ -1,0 +1,27 @@
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\bin\Debug\Host.exe.config
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\bin\Debug\Host.exe
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\bin\Debug\Host.pdb
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\bin\Debug\MeasureService.dll
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\bin\Debug\MeasureService.pdb
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\obj\x86\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\obj\x86\Debug\Host.exe
+C:\Users\Aleksa\documents\visual studio 2010\Projects\MeasureService\Host\obj\x86\Debug\Host.pdb
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\bin\Debug\Host.exe.config
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\obj\x86\Debug\Host.exe
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\obj\x86\Debug\Host.pdb
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\bin\Debug\Host.exe
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\bin\Debug\Host.pdb
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\bin\Debug\MeasureService.dll
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\bin\Debug\MeasureService.pdb
+C:\Users\FUJITSU\Documents\Visual Studio 2010\Projects\MeasureService\Host\obj\x86\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\MiloS\Desktop\MeasureService\Host\bin\Debug\Host.exe.config
+C:\Users\MiloS\Desktop\MeasureService\Host\bin\Debug\Host.exe
+C:\Users\MiloS\Desktop\MeasureService\Host\bin\Debug\Host.pdb
+C:\Users\MiloS\Desktop\MeasureService\Host\bin\Debug\MeasureService.dll
+C:\Users\MiloS\Desktop\MeasureService\Host\bin\Debug\MeasureService.pdb
+C:\Users\MiloS\Desktop\MeasureService\Host\obj\x86\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\MiloS\Desktop\MeasureService\Host\obj\x86\Debug\Host.exe
+C:\Users\MiloS\Desktop\MeasureService\Host\obj\x86\Debug\Host.pdb
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\Host\bin\Debug\Host.exe.config
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\Host\obj\x86\Debug\Host.exe
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\Host\obj\x86\Debug\Host.pdb

@@ -1,0 +1,14 @@
+C:\Users\MiloS\Desktop\MeasureService\MonitorClient\bin\Debug\MonitorClient.exe.config
+C:\Users\MiloS\Desktop\MeasureService\MonitorClient\bin\Debug\MonitorClient.exe
+C:\Users\MiloS\Desktop\MeasureService\MonitorClient\bin\Debug\MonitorClient.pdb
+C:\Users\MiloS\Desktop\MeasureService\MonitorClient\obj\x86\Debug\MonitorClient.exe
+C:\Users\MiloS\Desktop\MeasureService\MonitorClient\obj\x86\Debug\MonitorClient.pdb
+C:\Users\MiloS\Desktop\MeasureService\ObserverClient\bin\Debug\MonitorClient.exe.config
+C:\Users\MiloS\Desktop\MeasureService\ObserverClient\obj\x86\Debug\MonitorClient.exe
+C:\Users\MiloS\Desktop\MeasureService\ObserverClient\obj\x86\Debug\MonitorClient.pdb
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\ObserverClient\bin\Debug\MonitorClient.exe.config
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\ObserverClient\obj\x86\Debug\MonitorClient.exe
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\ObserverClient\obj\x86\Debug\MonitorClient.pdb
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\ObserverClient\bin\Debug\MonitorClient.exe
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\ObserverClient\bin\Debug\MonitorClient.pdb
+C:\Users\MiloS\Desktop\MeteoroloskaStanica\ObserverClient\obj\x86\Debug\ObserverClient.csprojResolveAssemblyReference.cache
